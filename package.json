@@ -3,8 +3,8 @@
   "description": "UI5 Web Socket Chat example",
   "version": "0.0.1",
   "author": {
-	  "name": "Johannes Gluch",
-	  "email": "johannes.gluch@yahoo.de"
+	  "name": "",
+	  "email": ""
   },
   "private": true,
   "scripts": {
